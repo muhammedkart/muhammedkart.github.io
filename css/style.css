@@ -1,0 +1,140 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+
+}
+
+.ana{
+    
+}
+a{
+	text-decoration:none;
+	overflow: hidden;
+}
+ul.baslik_ul{
+	list-style-type: none;	
+
+}
+li
+{
+	list-style-type: none;
+}
+
+ul.baslik_ul li{
+	display: inline;
+	margin-left: 20px;
+	font-style: normal;
+	font-size: 17px;
+	color: #fff;
+	
+}
+.baslik_ul a{
+color: white;
+}
+		.baslik_ul a:hover{
+				color: white;
+				border-bottom: 3px dotted red;
+
+		}
+
+
+
+
+
+
+.ana .banner{
+  background-image: url("resim5	.png");
+  width: 100%;
+  height: 200px;
+  background-color: red;
+  background-size:cover;
+  text-align: center;
+  line-height: 150px;
+  font-size: 30px;
+  color: white;
+
+}
+
+.ana .baslik{
+	width: 100%;
+	height: 35px;
+	background-color:#000000;
+	float: left;
+    color: white;
+	line-height: 35px;
+
+
+}
+
+.ana .govde{
+	height: auto;
+	width:100%;
+
+}
+
+.ana .govde .soltaraf{
+	margin-top: 5px;
+	height:auto;
+	width: 200px;
+	background-color:#000000;
+	float: left;
+	text-align: left;
+}
+
+ul.soltaraf_ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    background-color: black;
+   /* position: fixed;*/
+    height: auto;
+    overflow: auto;
+}
+
+   
+
+     .soltaraf_ul li a{
+     	  display: block;
+		    color: white;
+		    padding: 8px 16px;
+		    text-decoration: none;
+		     }
+
+
+		.soltaraf_ul a:hover{
+			 background-color: #707070;
+		   color: white;
+		   border-left: 3px dotted #BC00CB;
+
+			}
+
+
+
+
+.ana .govde .sagtaraf{
+	height: auto;
+	width: 1200px;	
+	background-color:white	;
+	float: right;
+	text-align: center;
+	border:3px dotted black;
+	margin-top: 30px;
+	
+}
+
+.ana .alt{
+	height: 40px;
+	width: 100%;
+	background-color:black;	 
+	text-align: center;
+	line-height: 40px;
+	color: white;
+	font-size: 25px;
+	position: auto;
+	margin-top: 15px;
+
+}
+1
+
